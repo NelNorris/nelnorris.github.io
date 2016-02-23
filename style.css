@@ -1,0 +1,35 @@
+body {
+	background-color: #ebf0fa;
+	color: #333;
+}
+
+p {
+	font-family: AmericanTypewriter;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: AmericanTypewriter;
+}
+
+.header {
+	text-align: right;
+}
+
+.header h1, h2, h3, h4, h5, h6 {
+	color: #666;
+}
+
+.header p {
+	color: #565656;
+}
+
+.row {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.features {
+	background-color: #e9f2fc;
+	border: 2px solid #ffe;
+	border-radius: 8px;
+}
